@@ -16,5 +16,13 @@ The project encompasses the following key features:
 
 This project serves as a comprehensive solution for those seeking to leverage the KNN algorithm in their .NET applications. 
 
+## Usage
 
+To use this project in your own, follow these steps:
+
+1. Clone or download this repository.
+2. Import the necessary files or modules into your project.
+3. Refer to example of use in Projekt.cs
+
+Please note that this project may have its own set of dependencies which need to be resolved in your parent project.
 
